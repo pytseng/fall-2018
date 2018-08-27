@@ -5,8 +5,8 @@
 [Slack](https://info5340-cs5650-2018.slack.com "Class schedule and slides") 
 
 ### Instructor:
-Harald Haraldsson
-Email: hh586@cornell.edu
+Harald Haraldsson. 
+Email: hh586@cornell.edu. 
 Office Hours: TBD
 
 ### Course Description:
