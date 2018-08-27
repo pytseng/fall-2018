@@ -4,6 +4,9 @@
 
 [Slack](https://info5340-cs5650-2018.slack.com "Class schedule and slides") 
 
+### Instructor:
+Harald Haraldsson
+
 ### Course Description:
 
 This course presents an introduction to virtual and augmented reality technologies, with an emphasis on designing and developing functional applications and experiences. The course will cover the history of the area, hardware technologies involved, interaction techniques, design guidelines, and specific application areas. Students will be tasked with designing and developing their own augmented or virtual reality application as a course project.
