@@ -6,6 +6,8 @@
 
 ### Instructor:
 Harald Haraldsson
+Email: hh586@cornell.edu
+Office Hours: TBD
 
 ### Course Description:
 
