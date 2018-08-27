@@ -1,5 +1,5 @@
 # Virtual and Augmented Reality
-##  Cornell Tech - INFO 5340 / CS 5650 - Fall 2018
+## INFO 5340 / CS 5650 - Fall 2018 - Cornell Tech
 [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7GcRIGiRYhSNIgRrbZi3WFZXo54F82nc-3fJ6n2oXcXJTwMzdodoC7wIycuHnL9wx9TrTsc1cKOLw/pubhtml "Class schedule and slides") 
 
 [Slack](https://info5340-cs5650-2018.slack.com "Class schedule and slides") 
