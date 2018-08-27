@@ -59,7 +59,7 @@ Final Project:  Group project, each group contains three students. Two milestone
 
 ### Grading:
 
-Homework: 40%:
+Assignments: 40%:
 
 Project: 40%
 
